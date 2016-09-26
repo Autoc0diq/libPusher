@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTPusherConnection.h"
+#import <Pusher/PTPusherConnection.h>
 
 #define kPTPusherSimulatedDisconnectionErrorCode 1001
 

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTEventListener.h"
+#import <Pusher/PTEventListener.h>
 
 @class PTPusherEventBinding;
 

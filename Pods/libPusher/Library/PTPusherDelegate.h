@@ -6,7 +6,7 @@
 //  Copyright 2010 LJR Software Limited. All rights reserved.
 //
 
-#import "PTPusherMacros.h"
+#import <Pusher/PTPusherMacros.h>
 
 @class PTPusher;
 @class PTPusherConnection;
