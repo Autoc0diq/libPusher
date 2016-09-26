@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTPusherMacros.h"
+#import <Pusher/PTPusherMacros.h>
 
 @class PTPusherConnection;
 @class PTPusherEvent;

@@ -7,10 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTPusherDelegate.h"
-#import "PTPusherConnection.h"
-#import "PTPusherEventPublisher.h"
-#import "PTPusherPresenceChannelDelegate.h"
+#import <Pusher/PTPusherDelegate.h>
+#import <Pusher/PTPusherConnection.h>
+#import <Pusher/PTPusherEventPublisher.h>
+#import <Pusher/PTPusherPresenceChannelDelegate.h>
 
 /** The name of the notification posted when PTPusher receives an event.
  */

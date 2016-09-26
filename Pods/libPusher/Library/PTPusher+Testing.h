@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTPusher.h"
+#import <Pusher/PTPusher.h>
 
 extern NSString *const PTPusherAuthorizationBypassURL;
 

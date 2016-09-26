@@ -7,10 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PTPusherEventPublisher.h"
-#import "PTEventListener.h"
-#import "PTPusherPresenceChannelDelegate.h"
-#import "PTPusherMacros.h"
+#import <Pusher/PTPusherEventPublisher.h>
+#import <Pusher/PTEventListener.h>
+#import <Pusher/PTPusherPresenceChannelDelegate.h>
+#import <Pusher/PTPusherMacros.h>
 
 @class PTPusher;
 @class PTPusherEventDispatcher;
